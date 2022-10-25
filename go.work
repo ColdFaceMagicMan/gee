@@ -1,0 +1,5 @@
+go 1.19
+
+use ./day7/gee
+
+use ./day7
